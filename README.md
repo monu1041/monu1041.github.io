@@ -1,2 +1,2 @@
 # monu1041.github.io
-dummy website for testing CI/CD
+Dummy website for testing CI/CD
